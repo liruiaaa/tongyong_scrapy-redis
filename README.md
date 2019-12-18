@@ -1,0 +1,2 @@
+# tongyong_scrapy-redis
+一个通用的scrapy-redis已经配置完挂好布隆过滤器代理中间件请求头中间件
